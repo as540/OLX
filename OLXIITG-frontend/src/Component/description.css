@@ -1,0 +1,74 @@
+/* .col-8{
+    background-color: red;
+}
+.col-4{
+    background-color: green;
+} */
+/* .anchor:link{
+    color: grey;
+}
+.anchor:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.my-container{
+    background-color: rgb(235, 235, 235);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button-1{
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button-1:hover{
+    color: black;
+    background-color: white;
+}
+
+img{
+    height:300px;
+}
+
+.container-3{
+    background-color: black;
+    padding:5%;
+    height: 500px;
+    width: 50%;
+    margin: auto;
+} */
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border-radius: "25px";
+    border-color: "black";
+  }
+  
+  .price {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .card button {
+    border: blue;
+    outline: 1;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }

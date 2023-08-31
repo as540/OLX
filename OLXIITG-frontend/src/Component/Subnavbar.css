@@ -1,0 +1,20 @@
+.navitem a:hover{
+    color:rgba(0,47,52,.6);
+
+}
+.subnavlink{
+  padding: 8px;
+}
+.navlink{
+    text-decoration:none;
+    color: black;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.list{
+    list-style-type: none;
+}
+.subnav::-webkit-scrollbar {
+    display: none;
+}
+
